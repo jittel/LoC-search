@@ -1,0 +1,10 @@
+.container{
+    align-items: center;
+    justify-content: center;
+    background-color: darkblue;
+}
+.card{
+    display: block;
+    background-color: rgb(103, 180, 138)
+
+}
